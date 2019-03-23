@@ -1,0 +1,19 @@
+{
+  "name": "mono-space",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "@types/jest": "^24.0.11",
+    "@types/node": "^11.11.3",
+    "eslint": "^5.15.1",
+    "jest": "^24.5.0",
+    "tslint": "^5.14.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3333"
+  }
+}
